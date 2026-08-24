@@ -48,8 +48,7 @@ To overcome ARM architecture bottlenecks, the software utilizes three parallel e
 
 ---
 
-## 🚀 Installation & Setup
+##  Build Process & Prototype Testing
 
-1. **Clone the repository:**
-   git clone [https://github.com/yourusername/Pathfinder.git](https://github.com/yourusername/Pathfinder.git)
-   cd Pathfinder
+* **Video Demonstration:** [Watch the step-by-step creation and testing of the Pathfinder prototype](https://youtu.be/svJ_Te5VOBk)
+*(This video covers the entire journey—from building the hardware step-by-step to the real-world testing of the finished prototype).*
